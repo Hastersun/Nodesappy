@@ -1,8 +1,18 @@
-# React + Vite
+# Nodesappy
+Nodesappy is a boilerplate for node.js to create modern web app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrated
 
-Currently, two official plugins are available:
+- Tailwindcss
+- Reactjs
+- DaisyUI
+- expressjs
+- authjs
+- vitejs
+- postcss
+## Get started
+First ,clone this repo to your local.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Second ,open it,and open the cmd of it.Use "npm i" to download the packages.
+
+
